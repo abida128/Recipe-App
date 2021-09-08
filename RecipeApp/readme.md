@@ -20,12 +20,11 @@
 # How to run code in this repo?
 - To run this App visit to live link and repo link.
 - Open index.html file in browser.
-
-# Repo Link:
-    https://github.com/abida128/Recipe-App.git
-
-
-# Live Link:
-    https://codepen.io/abida128/pen/MWoJxYK
+    
+ # Live link:
+     https://codepen.io/abida128/pen/MWoJxYK
+     
+# Repo link:
+     https://github.com/abida128/Recipe-App.git
 
 
