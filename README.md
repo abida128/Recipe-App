@@ -23,7 +23,7 @@
 - Open index.html file in browser.
     
  # Live link:
-     https://codepen.io/abida128/pen/MWoJxYK
+   https://codepen.io/abida128/pen/MWoJxYK
      
 # Repo link:
-     https://github.com/abida128/Recipe-App.git
+   https://github.com/abida128/Recipe-App.git
